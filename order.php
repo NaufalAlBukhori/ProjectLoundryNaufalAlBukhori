@@ -12,7 +12,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
-        <img class="pr-10" src="LL.jpg" alt="" style="height: 55px;">
+        <img class="pr-2" src="LL.jpg" alt="" style="height: 55px;">
             <a class="navbar-brand" href="index.php">Naufal Loundry</a>
         </div>
     </nav>
